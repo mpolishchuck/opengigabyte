@@ -17,5 +17,6 @@
     <modalias>usb:v1044p7A39d*</modalias>
     <modalias>usb:v1044p7A3Fd*</modalias>
     <modalias>usb:v1044p7A3Cd*</modalias>
+    <modalias>usb:v1044p7A41d*</modalias>
   </provides>
 </component>
