@@ -53,9 +53,9 @@ struct gigabyte_kbd_aero17xe5_drvdata {
 
 // touchpad device is in /sys/bus/i2c/devices/i2c-PNP0C50:01
 // these values stay consistent through the kernels I tested
-#define GIGABYTE_KBD_TOUCHPAD_DEVICE_HID "PNP0C50" 
+#define GIGABYTE_KBD_TOUCHPAD_DEVICE_HID "ELAN0A02"
 #define GIGABYTE_KBD_TOUCHPAD_DEVICE_BID "TPD0" 
-#define GIGABYTE_KBD_TOUCHPAD_DEVICE_INSTANCE_NO 1
+#define GIGABYTE_KBD_TOUCHPAD_DEVICE_INSTANCE_NO 0
 
 struct backlight_device* gigabyte_kbd_backlight_device;
 struct device_driver* gigabyte_kbd_touchpad_driver;
