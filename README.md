@@ -23,6 +23,7 @@ A collection of Linux drivers of various components for Gigabyte devices.
 | Gigabyte Aorus 15G                            |  1044:7A3C  |
 | Gigabyte Aorus 17G YC (RTX 30 series)         |  1044:7A3C  |
 | Gigabyte Aero 17 XE5                          |  1044:7A40  |
+| Gigabyte Aorus 5 SE4 (RTX 30 series, Intel 12700H)         |  1044:7A41  |
 
 
 
